@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><h1 style="color : red">How to Play Softball</h1>
+    <p style="color :blue">The batting team stays up to bat until the fielding team puts out 3 batters. A softball field consists of a pitching rubber, 4 bases (3 bases plus home plate), an infield, and an outfield. You need a bat, a softball, and softball gloves for each fielder, 4 bases, and a pitching rubber.</p>
+  </head>
+  <body>
+      <img src="http://www.fastpitch-softball-coaching.com/images/position9.jpg" width="200">
+      <h2 style="color : blue">Rules of Softball</h2>
+      <p style="color : red">A softball game can last anywhere from 3 to 7 innings, depending on the league, rules, and type of softball; however 7 innings is the most common. In each inning, each team bats until three batters have been put out (see below). The teams take turns batting.</p>
+    </body>
+  </html>

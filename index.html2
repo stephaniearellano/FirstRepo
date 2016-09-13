@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head><h1 style="color : red"> These are some fun facts about Softball!!</h1>
+  <ul>
+    <li>The game of softball is similar to baseball but it is played with a larger ball and on a smaller playing field.</li>
+    <li>Softball was invented in Chicago, Illinois in 1887 and was originally an indoor sport.</li>
+    <li>The first rules for softball were published in 1889.
+    <li>At the 1996 Olympics every softball game was sold out.
+    </ul>
+  </head>
+  <body>
+    <h2 style="color : blue">History of Softball</h2>
+    <p>Although many people assume that softball was derived from baseball, the sport's first game actually came about because of a football game. The history of softball dates back to Thanksgiving Day of 1887, when several alumni sat in the Chicago, Illinois Farragut Boat Club, anxiously awaiting the outcome of the Yale versus Harvard football game. When Yale was announced as winner, a Yale alumnus playfully threw a boxing glove at a Harvard supporter. The Harvard fan swung at the balled-up glove with a stick, and the rest of the group looked on with interest. George Hancock, a reporter for the Chicago Board of Trade, jokingly called out,"Play ball!" and the first softball game commenced with the football fans using the boxing glove as a ball and a broom handle in place of a bat.</p>
+  <a href="http://www.athleticscholarships.net/history-of-softball.htm">here is where i got imformtion about Softball!</a>
+  <img src="http://www.gcbobcats.com/sports/sball/2012-13/photos/Okvist1.jpeg" width="200">
+    </body>
+    </html>
